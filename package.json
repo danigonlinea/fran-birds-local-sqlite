@@ -26,7 +26,7 @@
     "expo-font": "~8.4.0",
     "expo-sqlite": "~8.5.0",
     "formik": "^2.2.6",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "native-base": "2.15.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
